@@ -1,0 +1,19 @@
+{
+  "name": "oxford-plugin-test",
+  "version": "1.0.0",
+  "description": "test plugin for oxford, used for testing oxford module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenmce/oxford-plugin-test.git"
+  },
+  "author": "Darren McElligott <darren.mcelligott@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenmce/oxford-plugin-test/issues"
+  },
+  "homepage": "https://github.com/darrenmce/oxford-plugin-test#readme"
+}
